@@ -6,14 +6,15 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile_Views-🔄-blueviolet?style=flat)
 
-Hi! I’m Tam (Noa), a software engineering student with a passion for DevOps, frontend development, and thoughtful design. ❄️  
-I'm currently earning my B.S. in Software Engineering at Western Governors University, where I'm sharpening my skills across the stack—from building modern UI with React, Next.js, and TailwindCSS to automating development workflows with Docker, CI/CD, and cloud tools like AWS.
+Hi! I’m Tam (Noa), a Software Engineering graduate with a passion for DevOps, frontend development, and creative design. ❄️
 
-My background started in UI/UX and frontend, but my curiosity has naturally led me toward DevOps, systems thinking, and scalable architecture. I enjoy bridging the gap between development and deployment—designing intuitive interfaces while also ensuring they’re fast, reliable, and cloud-ready.
+I recently earned my B.S. in Software Engineering at Western Governors University, and I’m now continuing my mad scientist journey in sharpening my skills across the stack: from building modern UI with React, Next.js, and TailwindCSS to automating development workflows with Docker, CI/CD, and cloud tools like AWS or Google Cloud.
+
+My background started in UI/UX and frontend, but my curiosity has naturally led me toward DevOps, systems thinking, and scalable architecture. I enjoy bridging the gap between development and deployment, designing intuitive interfaces while also ensuring they’re fast, reliable, and cloud-ready.
 
 With experience in tools like Figma and Adobe Creative Suite, I approach engineering as both a creative and technical craft. Whether I’m prototyping user flows or spinning up containerized environments, I’m focused on building software that’s both elegant and efficient.
 
-In essence, I’m on a mission to merge creativity with code—crafting impactful digital experiences, one project at a time.
+In essence, I’m on a mission to merge creativity with code, crafting impactful digital experiences, one project at a time.
 
 ---
 
